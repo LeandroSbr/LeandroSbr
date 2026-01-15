@@ -2,7 +2,7 @@
 I'm an Italian software developer passionate about web development, game development, and pixel art.  
 I enjoy working with clean, testable, and well-documented code.
 
-<br>
+
 ![Leandro's 42 stats](https://badge.mediaplus.ma/terminal/lesbrocc?1337Badge=off&UM6P=off)
 <br><br>
 
