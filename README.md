@@ -6,6 +6,14 @@ I enjoy working with clean, testable, and well-documented code.
 ![Leandro's 42 stats](https://badge.mediaplus.ma/terminal/lesbrocc?1337Badge=off&UM6P=off)
 <br><br>
 
+## 💼 Experience
+<ul>
+  <li>
+      Web Developer — Quartopiano (Florence, Italy) · 2026 – present
+      Independently developing the agency's website with Astro + Directus, deployed via Coolify on OVHCloud.
+  </li>
+</ul>
+
 ## :collision: Currently
 <ul>
   <li>Web Developer @ Quartopiano / Starthouse Firenze | Astro, Directus</li>
